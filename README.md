@@ -1,2 +1,3 @@
 # site-hegaldi-aerobic
 site pour club d'aerobic avec gestion des actualites, photos, resultats,...
+Luna = superAdmin
